@@ -36,7 +36,7 @@ header{
     background:  #e61134;  /* fallback for old browsers */
     
     background: -webkit-linear-gradient(to right,#09462096 , #fc032ca9);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #0b4d2496, #ff042ea9), url(WhatsApp\ Image\ 2021-09-03\ at\ 8.52.57\ AM\ \(1\).jpeg)  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, #0b4d2496, #ff042ea9), url(portada.inicio.jpg)  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     ;
     background-size: cover;
     background-attachment: fixed;
@@ -571,13 +571,13 @@ text-align: center;
 
             .textos-header h1{
                 font-size: 26px;
-                margin-bottom: 50px;
+                margin-bottom: 20px;
             
             }
 
             .textos-header h2{
                 font-size: 20px;
-                margin-bottom: 45px;
+                margin-bottom: 50px;
                 
             }
 
@@ -704,13 +704,14 @@ text-align: center;
 
             header{
                 width: 100%;
-                height: 250px;
+                height: 210px;
                 background:  #e61134;  /* fallback for old browsers */
                 
                 background: -webkit-linear-gradient(to right,#09462096 , #fc032ca9);  /* Chrome 10-25, Safari 5.1-6 */
-                background: linear-gradient(to right, #0b4d2496, #ff042ea9), url(WhatsApp\ Image\ 2021-09-03\ at\ 8.52.57\ AM\ \(1\).jpeg)  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+                background: linear-gradient(to right, #0b4d2496, #ff042ea9), url(portada.inicio.jpg)  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
                 ;
                 background-size: contain;
+                background-repeat: no-repeat;
                 background-attachment: fixed;
                 position: relative;
             }
